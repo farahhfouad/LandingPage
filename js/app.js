@@ -17,6 +17,8 @@ for (let i = 0; i < elements.length; i++) {
     navbar.appendChild(li);
 
 }
+
+
 navbar.addEventListener('click', function (e) {
     const navbarNew = document.querySelectorAll('li');
 
