@@ -8,8 +8,8 @@ To run the project please open index.html file on your browser.
 -Bootstrap
 
 # **Resources used :**
--[MDN web docs] (https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollIntoView)
--[JavascriptTutorial ] (https://www.javascripttutorial.net/dom/css/check-if-an-element-is-visible-in-the-viewport/)
+-[MDN web docs](https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollIntoView)
+-[JavascriptTutorial](https://www.javascripttutorial.net/dom/css/check-if-an-element-is-visible-in-the-viewport/)
 
 # **Description of functions:**
 - a.scrollIntoView() --> used to show element a in the user's current view
